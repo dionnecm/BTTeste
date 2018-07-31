@@ -1,0 +1,13 @@
+C:\Users\dionn\Documents\Visual Studio 2017\Projects\BTTeste\BTTeste\bin\Debug\BTTeste.exe.config
+C:\Users\dionn\Documents\Visual Studio 2017\Projects\BTTeste\BTTeste\bin\Debug\BTTeste.exe
+C:\Users\dionn\Documents\Visual Studio 2017\Projects\BTTeste\BTTeste\bin\Debug\BTTeste.pdb
+C:\Users\dionn\Documents\Visual Studio 2017\Projects\BTTeste\BTTeste\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\dionn\Documents\Visual Studio 2017\Projects\BTTeste\BTTeste\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\dionn\Documents\Visual Studio 2017\Projects\BTTeste\BTTeste\obj\Debug\BTTeste.csprojAssemblyReference.cache
+C:\Users\dionn\Documents\Visual Studio 2017\Projects\BTTeste\BTTeste\obj\Debug\BTTeste.Form1.resources
+C:\Users\dionn\Documents\Visual Studio 2017\Projects\BTTeste\BTTeste\obj\Debug\BTTeste.Properties.Resources.resources
+C:\Users\dionn\Documents\Visual Studio 2017\Projects\BTTeste\BTTeste\obj\Debug\BTTeste.csproj.GenerateResource.cache
+C:\Users\dionn\Documents\Visual Studio 2017\Projects\BTTeste\BTTeste\obj\Debug\BTTeste.csproj.CoreCompileInputs.cache
+C:\Users\dionn\Documents\Visual Studio 2017\Projects\BTTeste\BTTeste\obj\Debug\BTTeste.csproj.CopyComplete
+C:\Users\dionn\Documents\Visual Studio 2017\Projects\BTTeste\BTTeste\obj\Debug\BTTeste.exe
+C:\Users\dionn\Documents\Visual Studio 2017\Projects\BTTeste\BTTeste\obj\Debug\BTTeste.pdb
